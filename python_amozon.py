@@ -1,6 +1,5 @@
  #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-# Written as part of https://www.scrapehero.com/how-to-scrape-amazon-product-reviews-using-python/
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
 from nltk.stem import PorterStemmer
 from nltk.tokenize import word_tokenize
